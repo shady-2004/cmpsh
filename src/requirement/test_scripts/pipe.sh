@@ -1,0 +1,1 @@
+echo "B A C X" | tr ' ' '\n'
